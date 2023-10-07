@@ -1,0 +1,1 @@
+print("10 Numara Hilal de Souza" * 10)
